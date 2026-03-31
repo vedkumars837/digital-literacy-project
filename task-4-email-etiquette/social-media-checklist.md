@@ -5,7 +5,7 @@ Social media is widely used by students for communication, networking, and shari
 
 ---
 
-## ✅ Do's
+## Do's
 
 - Maintain a professional and respectful online profile.
 - Think before posting or sharing any content online.
@@ -15,7 +15,7 @@ Social media is widely used by students for communication, networking, and shari
 
 ---
 
-## ❌ Don'ts
+## Don'ts
 
 - Do not share sensitive personal information such as phone numbers, addresses, or financial details.
 - Avoid posting offensive, inappropriate, or harmful content.
