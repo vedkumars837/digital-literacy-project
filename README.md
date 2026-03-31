@@ -1,61 +1,54 @@
 # Digital Literacy Portfolio
 
-![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)
-![Course](https://img.shields.io/badge/Course-Digital%20Literacy-green)
-![University](https://img.shields.io/badge/University-VIT%20Bhopal-orange)
+## Student Information
 
----
-
-## Student Details
-
-**Name:** Ved Kumar Sahu <br>
-**University:** VIT Bhopal University <br>
-**Course Code:** CSE0001 <br>
-**Course Title:** Digital Literacy <br>
-**Program:** B.Tech <br>
-**Year:** First Year <br>
+**Name:** Ved Kumar Sahu  
+**University:** VIT Bhopal University  
+**Course Code:** CSE0001  
+**Course Title:** Digital Literacy  
+**Program:** B.Tech    
+**Year:** First Year
 
 ---
 
 # Project Overview
 
-This repository contains my **Digital Literacy Portfolio** created as part of the Digital Literacy course.
+This repository contains my **Digital Literacy Portfolio**, created as part of the Digital Literacy course. The objective of this project is to understand and demonstrate essential digital skills required in today's academic and professional environment.
 
-The purpose of this project is to develop essential digital skills required by modern students. Digital literacy includes the ability to use digital tools effectively, communicate professionally online, and stay safe from cyber threats.
-
-Through this project, I explored several digital platforms, practiced professional communication, and learned about responsible online behavior.
+Digital literacy includes the ability to use digital tools effectively, communicate professionally online, maintain a responsible digital presence, and stay safe from cyber threats. Through this project, I explored several digital platforms, practiced coding challenges, created a digital awareness infographic, and researched cybercrime prevention.
 
 ---
 
 # Repository Structure
 
-digital-literacy-project <br>
-│ <br>
-├── README.md<br>
-├── report/<br>
-│ └── Project_Report.pdf<br>
-│<br>
-├── task-1-presentation/<br>
-│ └── infographic.png<br>
-│<br>
-├── task-2-portfolio/<br>
-│ ├── github-profile.png<br>
-│ ├── linkedin-profile.png<br>
-│ └── kaggle-profile.png<br>
-│<br>
-├── task-3-platforms/<br>
-│ ├── hackerrank-challenge.png<br>
-│ ├── google-form.png<br>
-│ └── responses-sheet.png<br>
-│<br>
-├── task-4-email-etiquette/<br>
-│ ├── email1.txt<br>
-│ ├── email2.txt<br>
-│ └── social-media-checklist.md<br>
-│<br>
-└── task-5-cybercrime/<br>
-├── casestudy.md<br>
-└── prevention-checklist.md<br>
+digital-literacy-project    
+│  
+├── README.md  
+│  
+├── report/  
+│ └── Project_Report.pdf  
+│  
+├── task-1-presentation/  
+│ └── infographic.png  
+│  
+├── task-2-portfolio/  
+│ ├── github-profile.png  
+│ ├── linkedin-profile.png  
+│ └── stackoverflow-profile.png  
+│  
+├── task-3-platforms/  
+│ ├── coding-challenge.png  
+│ ├── google-form.png  
+│ └── responses-sheet.png  
+│  
+├── task-4-email-etiquette/  
+│ ├── email1.txt  
+│ ├── email2.txt  
+│ └── social-media-checklist.md  
+│  
+└── task-5-cybercrime/  
+├── casestudy.md  
+└── prevention-checklist.md  
 
 ---
 
@@ -63,25 +56,25 @@ digital-literacy-project <br>
 
 ## Task 1 – Digital Literacy Awareness Infographic
 
-Created an infographic explaining digital literacy concepts such as safe internet usage, useful tools for students, and professional online presence.
+Created an infographic explaining the concept of digital literacy, safe internet practices, useful digital tools for students, and the importance of maintaining a professional online presence.
 
 ---
 
 ## Task 2 – Student Digital Portfolio
 
-Developed profiles on professional platforms to build an online academic identity.
+Developed profiles on professional and academic platforms to build a digital identity.
 
 Platforms used:
 
-• GitHub  
-• LinkedIn  
-• Stack Overflow  
+• GitHub – for sharing coding projects and collaborating with developers  
+• LinkedIn – for professional networking and career opportunities  
+• Stack Overflow – for asking technical questions and learning from the developer community  
 
 ---
 
 ## Task 3 – Coding and Collaboration Platforms
 
-Solved a beginner coding challenge and created a digital literacy quiz using Google Forms.
+Solved a beginner-level coding challenge and created a Digital Literacy Awareness Quiz using Google Forms to demonstrate collaboration and knowledge sharing.
 
 ---
 
@@ -93,18 +86,26 @@ Drafted two professional emails and created a checklist of responsible social me
 
 ## Task 5 – Cybercrime Awareness
 
-Researched a cybercrime case study and prepared a checklist of online safety practices to help students avoid digital fraud.
+Researched a cybercrime case study and created a prevention checklist to help students stay safe online.
 
 ---
 
-# 🛠 Tools Used
+# Tools and Platforms Used
 
 • GitHub  
-• Canva  
-• Google Forms  
-• HackerRank  
 • LinkedIn  
 • Stack Overflow  
+• Google Forms  
+• Canva  
+• HackerRank  
+
+---
+
+# Project Report
+
+The complete project report is available in the repository:
+
+report/Project_Report.pdf
 
 ---
 
@@ -113,21 +114,13 @@ Researched a cybercrime case study and prepared a checklist of online safety pra
 Through this project, I learned:
 
 ✔ Importance of digital literacy  
-✔ Building a professional online presence  
-✔ Practicing coding through online platforms  
+✔ Creating a professional online presence  
+✔ Using coding practice platforms  
 ✔ Writing professional emails  
 ✔ Understanding cybercrime and online safety  
 
 ---
 
-# References
 
-GitHub – https://github.com  
-LinkedIn – https://linkedin.com  
-Kaggle – https://kaggle.com  
-Google Forms – https://forms.google.com  
-Canva – https://canva.com  
-
----
 
 
