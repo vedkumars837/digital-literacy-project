@@ -73,9 +73,9 @@ Developed profiles on professional platforms to build an online academic identit
 
 Platforms used:
 
-• GitHub
-• LinkedIn
-• Stack Overflow
+• GitHub  
+• LinkedIn  
+• Stack Overflow  
 
 ---
 
@@ -99,12 +99,12 @@ Researched a cybercrime case study and prepared a checklist of online safety pra
 
 # 🛠 Tools Used
 
-• GitHub
-• Canva
-• Google Forms
-• HackerRank
-• LinkedIn
-• Stack Overflow
+• GitHub  
+• Canva  
+• Google Forms  
+• HackerRank  
+• LinkedIn  
+• Stack Overflow  
 
 ---
 
@@ -112,21 +112,21 @@ Researched a cybercrime case study and prepared a checklist of online safety pra
 
 Through this project, I learned:
 
-✔ Importance of digital literacy
-✔ Building a professional online presence
-✔ Practicing coding through online platforms
-✔ Writing professional emails
-✔ Understanding cybercrime and online safety
+✔ Importance of digital literacy  
+✔ Building a professional online presence  
+✔ Practicing coding through online platforms  
+✔ Writing professional emails  
+✔ Understanding cybercrime and online safety  
 
 ---
 
 # References
 
-GitHub – https://github.com
-LinkedIn – https://linkedin.com
-Kaggle – https://kaggle.com
-Google Forms – https://forms.google.com
-Canva – https://canva.com
+GitHub – https://github.com  
+LinkedIn – https://linkedin.com  
+Kaggle – https://kaggle.com  
+Google Forms – https://forms.google.com  
+Canva – https://canva.com  
 
 ---
 
